@@ -19,9 +19,11 @@
 
    -> 마이크로 컨트롤러에서 입력을 받아들이는 방법
    
-      ![image](https://user-images.githubusercontent.com/87634136/173245601-84ab1df1-496a-4be5-aca1-2f37f540326c.png)
+    ![image](https://user-images.githubusercontent.com/87634136/173245877-7505c33c-c80a-4d93-ab39-61138f160ca4.png)
 
    ; 인터럽트는 방생 시기를 예측하기 힘든 경우에 마이크로 컨트롤러가 가장 빠르게 대응할 수 있는 방법
+
+![image](https://user-images.githubusercontent.com/87634136/173245888-3bf0df11-a805-454c-b3b8-454f5736ed39.png)
 
 
 3) 인터럽트 처리 과정 
